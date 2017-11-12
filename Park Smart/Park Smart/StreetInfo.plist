@@ -74,11 +74,11 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.748502</real>
 		<key>longitude</key>
-		<real>-74.026997</real>
+		<real>-74.02699699999999</real>
 		<key>length</key>
 		<string>2</string>
 		<key>type</key>
@@ -86,19 +86,19 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747561</real>
 		<key>longitude</key>
 		<real>-74.029205</real>
 		<key>length</key>
-		<string>4</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747509</real>
 		<key>longitude</key>
@@ -109,51 +109,56 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747407</real>
 		<key>longitude</key>
-		<real>-74.028314</real>
+		<real>-74.02831399999999</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747346</real>
 		<key>longitude</key>
-		<real>-74.028314</real>
+		<real>-74.02831399999999</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74724</real>
 		<key>longitude</key>
-		<real>-74.027392</real>
+		<real>-74.02739200000001</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747181</real>
 		<key>longitude</key>
-		<real>-74.027408</real>
+		<real>-74.02740799999999</real>
 		<key>length</key>
-		<string>4</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.747045</real>
 		<key>longitude</key>
@@ -164,18 +169,20 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74699</real>
 		<key>longitude</key>
-		<real>-74.026372</real>
+		<real>-74.02637199999999</real>
 		<key>length</key>
 		<string>2</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.746285</real>
 		<key>longitude</key>
@@ -186,18 +193,20 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.746224</real>
 		<key>longitude</key>
-		<real>-74.029637</real>
+		<real>-74.02963699999999</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.746119</real>
 		<key>longitude</key>
@@ -209,7 +218,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.746066</real>
 		<key>longitude</key>
@@ -220,7 +229,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.75966</real>
 		<key>longitude</key>
@@ -232,18 +242,19 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.745911</real>
 		<key>longitude</key>
-		<real>-74.027842</real>
+		<real>-74.02784200000001</real>
 		<key>length</key>
-		<string>4</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.745728</real>
 		<key>longitude</key>
@@ -255,11 +266,11 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.745001</real>
 		<key>longitude</key>
-		<real>-74.030004</real>
+		<real>-74.03000400000001</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
@@ -267,8 +278,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74495</real>
 		<key>longitude</key>
@@ -279,7 +289,8 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.744842</real>
 		<key>longitude</key>
@@ -290,7 +301,8 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.744781</real>
 		<key>longitude</key>
@@ -301,18 +313,20 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.744716</real>
 		<key>longitude</key>
 		<real>-74.028373</real>
 		<key>length</key>
-		<string>4</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.744664</real>
 		<key>longitude</key>
@@ -323,40 +337,44 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.744566</real>
 		<key>longitude</key>
-		<real>-74.027837</real>
+		<real>-74.02783700000001</real>
 		<key>length</key>
 		<string>1</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743737</real>
 		<key>longitude</key>
-		<real>-74.030358</real>
+		<real>-74.03035800000001</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74368</real>
 		<key>longitude</key>
-		<real>-74.030358</real>
+		<real>-74.03035800000001</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.73573</real>
 		<key>longitude</key>
@@ -367,7 +385,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.73522</real>
 		<key>longitude</key>
@@ -378,7 +397,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743449</real>
 		<key>longitude</key>
@@ -389,7 +409,8 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743351</real>
 		<key>longitude</key>
@@ -400,7 +421,8 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743302</real>
 		<key>longitude</key>
@@ -411,7 +433,8 @@
 		<string>handicapped</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743265</real>
 		<key>longitude</key>
@@ -422,29 +445,32 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743216</real>
 		<key>longitude</key>
-		<real>-74.027769</real>
+		<real>-74.02776900000001</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743076</real>
 		<key>longitude</key>
-		<real>-74.026728</real>
+		<real>-74.02672800000001</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.743022</real>
 		<key>longitude</key>
@@ -455,7 +481,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742462</real>
 		<key>longitude</key>
@@ -466,7 +493,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742425</real>
 		<key>longitude</key>
@@ -477,40 +505,44 @@
 		<string>paid</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742301</real>
 		<key>longitude</key>
-		<real>-74.029896</real>
+		<real>-74.02989599999999</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742252</real>
 		<key>longitude</key>
 		<real>-74.029906</real>
 		<key>length</key>
-		<string>2</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742181</real>
 		<key>longitude</key>
 		<real>-74.029173</real>
 		<key>length</key>
-		<string>2</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742128</real>
 		<key>longitude</key>
@@ -521,7 +553,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742128</real>
 		<key>longitude</key>
@@ -532,29 +565,32 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742087</real>
 		<key>longitude</key>
-		<real>-74.028625</real>
+		<real>-74.02862500000001</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.742036</real>
 		<key>longitude</key>
-		<real>-74.028636</real>
+		<real>-74.02863600000001</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741963</real>
 		<key>longitude</key>
@@ -565,7 +601,8 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74191</real>
 		<key>longitude</key>
@@ -576,18 +613,20 @@
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741817</real>
 		<key>longitude</key>
-		<real>-74.026997</real>
+		<real>-74.02699699999999</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741769</real>
 		<key>longitude</key>
@@ -598,18 +637,20 @@
 		<string>handicapped</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74153</real>
 		<key>longitude</key>
-		<real>-74.03105</real>
+		<real>-74.03104999999999</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741477</real>
 		<key>longitude</key>
@@ -621,7 +662,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741372</real>
 		<key>longitude</key>
@@ -633,18 +674,19 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741321</real>
 		<key>longitude</key>
-		<real>-74.030184</real>
+		<real>-74.03018400000001</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
 		<string>free</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
-	</dict><dict>
+	</dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741246</real>
 		<key>longitude</key>
@@ -656,7 +698,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741197</real>
 		<key>longitude</key>
@@ -668,7 +710,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741155</real>
 		<key>longitude</key>
@@ -680,11 +722,11 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.741102</real>
 		<key>longitude</key>
-		<real>-74.02895</real>
+		<real>-74.02894999999999</real>
 		<key>length</key>
 		<string>3</string>
 		<key>type</key>
@@ -692,7 +734,7 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.74102</real>
 		<key>longitude</key>
@@ -704,11 +746,11 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.740967</real>
 		<key>longitude</key>
-		<real>-74.02823</real>
+		<real>-74.02822999999999</real>
 		<key>length</key>
 		<string>2</string>
 		<key>type</key>
@@ -716,18 +758,17 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-<dict>
+	<dict>
 		<key>latitude</key>
 		<real>40.740855</real>
 		<key>longitude</key>
-		<real>-74.027239</real>
+		<real>-74.02723899999999</real>
 		<key>length</key>
-		<string>3</string>
+		<string> ⃠  </string>
 		<key>type</key>
 		<string>noParking</string>
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
-
 </array>
 </plist>
