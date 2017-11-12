@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>latitude</key>
+		<real>40.750101</real>
+		<key>longitude</key>
+		<real>-74.028459</real>
+		<key>length</key>
+		<string>5</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>40.7504</real>
+		<key>longitude</key>
+		<real>-74.028475</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>40.758837</real>
+		<key>longitude</key>
+		<real>-74.028856</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>40.74878</real>
+		<key>longitude</key>
+		<real>-74.028862</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>40.748669</real>
+		<key>longitude</key>
+		<real>-74.027947</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>40.748612</real>
+		<key>longitude</key>
+		<real>-74.027947</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.748502</real>
+		<key>longitude</key>
+		<real>-74.026997</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.747561</real>
+		<key>longitude</key>
+		<real>-74.029205</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.747509</real>
+		<key>longitude</key>
+		<real>-74.029205</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.747407</real>
+		<key>longitude</key>
+		<real>-74.028314</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.747346</real>
+		<key>longitude</key>
+		<real>-74.028314</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.74724</real>
+		<key>longitude</key>
+		<real>-74.027392</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.747181</real>
+		<key>longitude</key>
+		<real>-74.027408</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.747045</real>
+		<key>longitude</key>
+		<real>-74.026338</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.74699</real>
+		<key>longitude</key>
+		<real>-74.026372</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.746285</real>
+		<key>longitude</key>
+		<real>-74.029629</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.746224</real>
+		<key>longitude</key>
+		<real>-74.029637</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.746119</real>
+		<key>longitude</key>
+		<real>-74.0278701</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.746066</real>
+		<key>longitude</key>
+		<real>-74.028706</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.75966</real>
+		<key>longitude</key>
+		<real>-74.027824</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.745911</real>
+		<key>longitude</key>
+		<real>-74.027842</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.745728</real>
+		<key>longitude</key>
+		<real>-74.026732</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.745672</real>
+		<key>longitude</key>
+		<real>-74.026732</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+</array>
+</plist>
