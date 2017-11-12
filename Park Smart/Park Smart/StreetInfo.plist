@@ -257,9 +257,9 @@
 	</dict>
 <dict>
 		<key>latitude</key>
-		<real>40.745672</real>
+		<real>40.745001</real>
 		<key>longitude</key>
-		<real>-74.026732</real>
+		<real>-74.030004</real>
 		<key>length</key>
 		<string>4</string>
 		<key>type</key>
@@ -267,5 +267,467 @@
 		<key>notes</key>
 		<string>No Parking 12-2</string>
 	</dict>
+
+<dict>
+		<key>latitude</key>
+		<real>40.74495</real>
+		<key>longitude</key>
+		<real>-74.030012</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.744842</real>
+		<key>longitude</key>
+		<real>-74.029079</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.744781</real>
+		<key>longitude</key>
+		<real>-74.029095</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.744716</real>
+		<key>longitude</key>
+		<real>-74.028373</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.744664</real>
+		<key>longitude</key>
+		<real>-74.028395</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.744566</real>
+		<key>longitude</key>
+		<real>-74.027837</real>
+		<key>length</key>
+		<string>1</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743737</real>
+		<key>longitude</key>
+		<real>-74.030358</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.74368</real>
+		<key>longitude</key>
+		<real>-74.030358</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.73573</real>
+		<key>longitude</key>
+		<real>-74.024941</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.73522</real>
+		<key>longitude</key>
+		<real>-74.029511</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743449</real>
+		<key>longitude</key>
+		<real>-74.028794</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743351</real>
+		<key>longitude</key>
+		<real>-74.028238</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743302</real>
+		<key>longitude</key>
+		<real>-74.028266</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743265</real>
+		<key>longitude</key>
+		<real>-74.027748</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743216</real>
+		<key>longitude</key>
+		<real>-74.027769</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743076</real>
+		<key>longitude</key>
+		<real>-74.026728</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.743022</real>
+		<key>longitude</key>
+		<real>-74.026731</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742462</real>
+		<key>longitude</key>
+		<real>-74.030762</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742425</real>
+		<key>longitude</key>
+		<real>-74.030846</real>
+		<key>length</key>
+		<string>1</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742301</real>
+		<key>longitude</key>
+		<real>-74.029896</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742252</real>
+		<key>longitude</key>
+		<real>-74.029906</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742181</real>
+		<key>longitude</key>
+		<real>-74.029173</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742128</real>
+		<key>longitude</key>
+		<real>-74.029178</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742128</real>
+		<key>longitude</key>
+		<real>-74.029178</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742087</real>
+		<key>longitude</key>
+		<real>-74.028625</real>
+		<key>length</key>
+		<string>4</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.742036</real>
+		<key>longitude</key>
+		<real>-74.028636</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.741963</real>
+		<key>longitude</key>
+		<real>-74.027896</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.74191</real>
+		<key>longitude</key>
+		<real>-74.027907</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.741817</real>
+		<key>longitude</key>
+		<real>-74.026997</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.741769</real>
+		<key>longitude</key>
+		<real>-74.027019</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.74153</real>
+		<key>longitude</key>
+		<real>-74.03105</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.741477</real>
+		<key>longitude</key>
+		<real>-74.031057</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.741372</real>
+		<key>longitude</key>
+		<real>-74.030165</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.741321</real>
+		<key>longitude</key>
+		<real>-74.030184</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict><dict>
+		<key>latitude</key>
+		<real>40.741246</real>
+		<key>longitude</key>
+		<real>-74.029473</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>free</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.741197</real>
+		<key>longitude</key>
+		<real>-74.029489</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.741155</real>
+		<key>longitude</key>
+		<real>-74.028947</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.741102</real>
+		<key>longitude</key>
+		<real>-74.02895</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.74102</real>
+		<key>longitude</key>
+		<real>-74.02821</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>paid</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.740967</real>
+		<key>longitude</key>
+		<real>-74.02823</real>
+		<key>length</key>
+		<string>2</string>
+		<key>type</key>
+		<string>handicapped</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+<dict>
+		<key>latitude</key>
+		<real>40.740855</real>
+		<key>longitude</key>
+		<real>-74.027239</real>
+		<key>length</key>
+		<string>3</string>
+		<key>type</key>
+		<string>noParking</string>
+		<key>notes</key>
+		<string>No Parking 12-2</string>
+	</dict>
+
 </array>
 </plist>
