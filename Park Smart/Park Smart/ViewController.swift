@@ -22,6 +22,7 @@ class MyPointAnnotation : MKPointAnnotation {
 class ViewController: UIViewController {
 
     @IBOutlet weak var mapView: MKMapView!
+    @IBOutlet weak var toggle: UISegmentedControl!
     
     var free = [MKPointAnnotation]()
     var paid = [MKPointAnnotation]()
@@ -33,19 +34,35 @@ class ViewController: UIViewController {
         
         let initialLocation = CLLocation(latitude: 40.7461, longitude: -74.031)
 
-        let filePath = Bundle.main.path(forResource: "Places", ofType: "plist")
-        let items = NSArray(contentsOfFile: filePath!) as! [[String:AnyObject]]
-        for item in items{
-            for element in item{
-                print(element)
+        //var filePath = Bundle.main.path(forResource: "Places", ofType: "plist")
+        //let items = NSArray(contentsOfFile: filePath!) as! [[String:AnyObject]]
+        
+        //var spots: [NSArray] = []
+        var items: [NSDictionary] = []
+        if let filePath = Bundle.main.path(forResource: "StreetInfo", ofType: "plist") {
+            if let fromPlist = NSArray(contentsOfFile: filePath) as? [NSDictionary] {
+                for element in fromPlist {
+                    items.append(element)
+                }
             }
         }
         
+        for i in 0...items.count-1{
+            let latitude = items[i]["latitude"]
+            let longitude = items[i]["longitude"]
+            let type = items[i]["type"]
+            let length = items[i]["length"]
+            makeAnnotation(latitude: latitude as! CLLocationDegrees, longitude: longitude as! CLLocationDegrees, parkingType: type as! String!, length: length as! String!)
+        }
         
         //let newLocation = CLLocationCoordinate2DMake(40.7461, -74.031)
         centerMapOnLocation(location: initialLocation)
         mapView.delegate = self
-
+        
+        
+        
+        
+        
         /*
         for n in free {
             mapView.removeAnnotation(n)
@@ -57,10 +74,88 @@ class ViewController: UIViewController {
         }
          */
         
-        makeAnnotation(latitude: 40.7463, longitude: -74.035, parkingType: "free", length: "0")
-        makeAnnotation(latitude: 40.74, longitude: -74.03, parkingType: "free", length: "∞")
+        removeAll()
+        addAll()
 
         
+    }
+    
+    @IBAction func showHide(_ sender: Any) {
+        if toggle.selectedSegmentIndex == 1{
+            for f in free {
+                mapView.addAnnotation(f)
+            }
+            for p in paid {
+                mapView.removeAnnotation(p)
+            }
+            for h in handicapped {
+                mapView.removeAnnotation(h)
+            }
+            for np in noParking {
+                mapView.removeAnnotation(np)
+            }
+        }
+        else{
+            for f in free {
+                mapView.addAnnotation(f)
+            }
+            for p in paid {
+                mapView.addAnnotation(p)
+            }
+            for h in handicapped {
+                mapView.addAnnotation(h)
+            }
+            for np in noParking {
+                mapView.addAnnotation(np)
+            }
+        }
+    }
+    
+    
+    func addAll(){
+        for f in free {
+            mapView.addAnnotation(f)
+        }
+        for p in paid {
+            mapView.addAnnotation(p)
+        }
+        for h in handicapped {
+            mapView.addAnnotation(h)
+        }
+        for np in noParking {
+            mapView.addAnnotation(np)
+        }
+    }
+    func removeAll(){
+        for f in free {
+            mapView.removeAnnotation(f)
+        }
+        for p in paid {
+            mapView.removeAnnotation(p)
+        }
+        for h in handicapped {
+            mapView.removeAnnotation(h)
+        }
+        for np in noParking {
+            mapView.removeAnnotation(np)
+        }
+    }
+    
+    func hideFree(){
+        for f in free {
+            mapView.removeAnnotation(f)
+        }
+    }
+    func showAll(){
+        for p in paid {
+            mapView.addAnnotation(p)
+        }
+        for h in handicapped {
+            mapView.addAnnotation(h)
+        }
+        for np in noParking {
+            mapView.addAnnotation(np)
+        }
     }
     
     override func didReceiveMemoryWarning() {
@@ -92,6 +187,7 @@ class ViewController: UIViewController {
         }
         else if(parkingType == "noParking"){
             ann.markerTintColor = .black
+            ann.glyph = length
             noParking.append(ann)
         }
         

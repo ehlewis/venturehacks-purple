@@ -26,11 +26,23 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <edgeInsets key="layoutMargins" top="8" left="8" bottom="8" right="8"/>
                             </mapView>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="7qf-tK-Q5d">
+                                <rect key="frame" x="257" y="742" width="83" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                                <segments>
+                                    <segment title="All"/>
+                                    <segment title="Free"/>
+                                </segments>
+                                <connections>
+                                    <action selector="showHide:" destination="BYZ-38-t0r" eventType="valueChanged" id="vT0-8I-Yq7"/>
+                                </connections>
+                            </segmentedControl>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
                         <outlet property="mapView" destination="XhT-Xi-KGu" id="BTg-td-TtR"/>
+                        <outlet property="toggle" destination="7qf-tK-Q5d" id="log-2M-imm"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

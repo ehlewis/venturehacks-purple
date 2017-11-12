@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F7EB9EF1FB8E0090020EA91 /* StreetInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7EB9EE1FB8E0090020EA91 /* StreetInfo.plist */; };
 		4FFE48F31FB7BA4900C028AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFE48F21FB7BA4900C028AE /* AppDelegate.swift */; };
 		4FFE48F51FB7BA4900C028AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFE48F41FB7BA4900C028AE /* ViewController.swift */; };
 		4FFE48F81FB7BA4900C028AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FFE48F61FB7BA4900C028AE /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F7EB9EE1FB8E0090020EA91 /* StreetInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = StreetInfo.plist; sourceTree = "<group>"; };
 		4FFE48EF1FB7BA4900C028AE /* Park Smart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Park Smart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFE48F21FB7BA4900C028AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FFE48F41FB7BA4900C028AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				4FFE492D1FB7E1AD00C028AE /* Places.plist */,
 				4FFE48F21FB7BA4900C028AE /* AppDelegate.swift */,
 				4FFE48F41FB7BA4900C028AE /* ViewController.swift */,
+				4F7EB9EE1FB8E0090020EA91 /* StreetInfo.plist */,
 				4FFE48F61FB7BA4900C028AE /* Main.storyboard */,
 				4FFE48F91FB7BA4900C028AE /* Assets.xcassets */,
 				4FFE48FE1FB7BA4900C028AE /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FFE48FA1FB7BA4900C028AE /* Assets.xcassets in Resources */,
+				4F7EB9EF1FB8E0090020EA91 /* StreetInfo.plist in Resources */,
 				4FFE492E1FB7E1AD00C028AE /* Places.plist in Resources */,
 				4FFE48F81FB7BA4900C028AE /* Main.storyboard in Resources */,
 			);
