@@ -14,7 +14,6 @@
 		4FFE48FA1FB7BA4900C028AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FFE48F91FB7BA4900C028AE /* Assets.xcassets */; };
 		4FFE49081FB7BA4900C028AE /* Park_SmartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFE49071FB7BA4900C028AE /* Park_SmartTests.swift */; };
 		4FFE49131FB7BA4900C028AE /* Park_SmartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFE49121FB7BA4900C028AE /* Park_SmartUITests.swift */; };
-		4FFE492E1FB7E1AD00C028AE /* Places.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4FFE492D1FB7E1AD00C028AE /* Places.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		4FFE490E1FB7BA4900C028AE /* Park SmartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Park SmartUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFE49121FB7BA4900C028AE /* Park_SmartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Park_SmartUITests.swift; sourceTree = "<group>"; };
 		4FFE49141FB7BA4900C028AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4FFE492D1FB7E1AD00C028AE /* Places.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +97,6 @@
 		4FFE48F11FB7BA4900C028AE /* Park Smart */ = {
 			isa = PBXGroup;
 			children = (
-				4FFE492D1FB7E1AD00C028AE /* Places.plist */,
 				4FFE48F21FB7BA4900C028AE /* AppDelegate.swift */,
 				4FFE48F41FB7BA4900C028AE /* ViewController.swift */,
 				4F7EB9EE1FB8E0090020EA91 /* StreetInfo.plist */,
@@ -237,7 +234,6 @@
 			files = (
 				4FFE48FA1FB7BA4900C028AE /* Assets.xcassets in Resources */,
 				4F7EB9EF1FB8E0090020EA91 /* StreetInfo.plist in Resources */,
-				4FFE492E1FB7E1AD00C028AE /* Places.plist in Resources */,
 				4FFE48F81FB7BA4900C028AE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
