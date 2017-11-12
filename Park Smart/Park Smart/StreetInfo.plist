@@ -56,7 +56,7 @@
 		<key>longitude</key>
 		<real>-74.027947</real>
 		<key>length</key>
-		<string>4</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -344,7 +344,7 @@
 		<key>longitude</key>
 		<real>-74.02783700000001</real>
 		<key>length</key>
-		<string>1</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -428,7 +428,7 @@
 		<key>longitude</key>
 		<real>-74.028266</real>
 		<key>length</key>
-		<string>2</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -584,7 +584,7 @@
 		<key>longitude</key>
 		<real>-74.02863600000001</real>
 		<key>length</key>
-		<string>3</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -632,7 +632,7 @@
 		<key>longitude</key>
 		<real>-74.027019</real>
 		<key>length</key>
-		<string>2</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -704,7 +704,7 @@
 		<key>longitude</key>
 		<real>-74.029489</real>
 		<key>length</key>
-		<string>3</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
@@ -752,7 +752,7 @@
 		<key>longitude</key>
 		<real>-74.02822999999999</real>
 		<key>length</key>
-		<string>2</string>
+		<string>♿</string>
 		<key>type</key>
 		<string>handicapped</string>
 		<key>notes</key>
